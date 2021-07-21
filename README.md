@@ -15,7 +15,7 @@ This Twitter Sentiment Analyzer helps detect the Hate Speech using two of the di
     * Original Source: https://www.kaggle.com/kazanova/sentiment140
     
     
-  *Racist/Hate Speech Detection
+  * Racist/Hate Speech Detection
   
     * 32K tweets labeled as hatred (racist/sexist) or non hatred, provided by Analytics Vidhya
     
